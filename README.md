@@ -1,41 +1,37 @@
-# RestAssuredTestNGFramework
-REST Assured API test automation framework using Java + Maven + TestNG.
-Framework follows many of the industry best practices.
+# 🛒 E-Commerce Automation Framework (Web UI)
 
-**Step by step instructions to build this framework from scratch and integrate with Jenkins CI is in this Highest Rated Udemy course.
-Enroll today at the minimal rate of INR 499/ $14.99.
-Link with coupon code: https://www.udemy.com/course/rest-assured-api-automation/?couponCode=APR2024**
+This project is a complete test automation framework developed for a sample E-Commerce web application. It demonstrates scalable UI test automation using Java, Selenium WebDriver, and TestNG with Page Object Model (POM) design pattern and ExtentReports integration.
 
-![Udemy_Landing_Page](/CourseLandingPage.png)
+---
 
-Technologies/Tools used in building the framework
-=================================================
-- Rest Assured
+## 🚀 Tech Stack
+
+- Java 11+
+- Selenium WebDriver
 - TestNG
-- Java
-- Allure Reports
-- Hamcrest
-- Jackson API
-- Lombok
-- IntelliJ
-- GitHub
-- Jenkins
+- Maven
+- Page Object Model (POM)
+- ExtentReports
+- Jenkins (CI Integration)
+- Git
 
-Framework implements below best practices
-=========================================
-- Scalable and extensible
-- Reusable Rest Assured specifications
-- Reusable Rest Assured API requests
-- Separation of API layer from test layer
-- POJOs for Serialization and Deserialization
-- Singleton Design Pattern
-- Lombok for reducing Boilerplate code
-- Builder pattern for Setter methods in POJOs
-- Robust reporting and logging using Allure
-- Automate positive and negative scenarios
-- Support parallel execution
-- Data driven using TestNG Data Provider
-- Automated access token renewal
-- Maven command line execution
-- Integration with Git
-- Integration with Jenkins
+---
+
+## ✅ Features
+
+- End-to-end automated test cases for:
+  - User Registration
+  - Login/Logout
+  - Product Search
+  - Add to Cart
+  - Checkout Process
+- Cross-browser execution support
+- Headless test execution option
+- Structured using Page Object Model for maintainability
+- ExtentReports for rich HTML reporting
+- Scalable and modular test framework
+
+---
+
+## 📂 Project Structure
+
