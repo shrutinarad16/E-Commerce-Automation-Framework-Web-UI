@@ -33,5 +33,4 @@ This project is a complete test automation framework developed for a sample E-Co
 
 ---
 
-## 📂 Project Structure
 
